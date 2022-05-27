@@ -1,5 +1,7 @@
 # cleardc
 讓你的Discord乾淨整潔
+![image](https://user-images.githubusercontent.com/96234201/170613712-3b348073-e6ba-4765-a9a9-f476ac56fbb3.png)
+
 
 ## 安裝
 1.到themes資料夾
