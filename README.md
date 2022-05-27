@@ -1,4 +1,5 @@
 # cleardc
+讓你的Discord乾淨整潔
 
 ## 安裝
 1.到themes資料夾
